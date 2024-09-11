@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  height: 100vh;
+  background-color: #E5E5E5;
+}
+
+.App .card-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.App .title {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.App .form-wrapper {
+  display: flex;
+  flex-direction: row;
+}
