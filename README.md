@@ -1,7 +1,7 @@
 
 ## Details
-Name : Yusril Sapta Wardhana
-Tech Stack : ReactJS, JavaScript, Bootstrap, CSS
+1. Name : Yusril Sapta Wardhana
+2. Tech Stack : ReactJS, JavaScript, Bootstrap, CSS
 
 ## How to Run Project
 1. Clone this repository
